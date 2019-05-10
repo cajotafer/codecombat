@@ -1,4 +1,4 @@
-import { CAMERA_DEFAULT } from '../../views/play/cinematic/CameraSystem'
+import { CAMERA_DEFAULT } from '../../lib/cinematic/CameraSystem'
 
 /**
  * Selector / verifier.
