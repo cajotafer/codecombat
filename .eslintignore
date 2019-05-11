@@ -64,8 +64,6 @@ app/views/core/ParentReferTeacherModalComponent.vue
 app/views/core/Root.vue
 app/views/minigames/ConditionalMinigameComponent.vue
 app/views/school-administrator/SchoolAdministratorComponent.vue
-app/views/school-administrator/teachers/SchoolAdminTeacherListRow.vue
-app/views/school-administrator/teachers/SchoolAdminTeacherListView.vue
 app/views/school-administrator/dashboard/SchoolAdminDashboardTeacherView.vue
 app/views/admin/AdminClassroomLevelsComponent.vue
 app/views/admin/FilesComponent.vue
